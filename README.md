@@ -9,8 +9,8 @@ Install [python-docx](https://python-docx.readthedocs.io/)
 Change font on document
 
     python3 change.py -i=Test.docx
-    
-# Available arguments    
+
+## Available arguments
 | Argument | Short | Required | Default | Info |
 | - | - | - | - | - |
 | --input | -i | `true` | | Input path file |
